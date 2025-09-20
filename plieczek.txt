@@ -4,3 +4,5 @@ pliczek
 pliczkek 2
 
 pliczkek galaz
+
+pliczek main 1
