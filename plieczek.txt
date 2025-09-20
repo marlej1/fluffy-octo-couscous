@@ -11,4 +11,6 @@ qwerty galaz
 qwerty galaz2
 pliczek main 1
 
+pliczek 4-galaz 1
+pliczek 4-galaz 2
 pliczek main 2
