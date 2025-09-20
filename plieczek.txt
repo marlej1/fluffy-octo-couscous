@@ -10,3 +10,5 @@ qwerty galaz
 
 qwerty galaz2
 pliczek main 1
+
+pliczek main 2
